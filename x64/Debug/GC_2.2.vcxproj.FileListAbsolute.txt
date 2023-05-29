@@ -1,0 +1,4 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\GC_2.2\x64\Debug\GC_2.2.exe
+M:\CienciaDaComputacao\Computacao Grafica\Trabalho-2.2---Voxels-master\x64\Debug\C.G.2.2.exe
+M:\CienciaDaComputacao\Computacao Grafica\Trabalho 2.2 Fabio Ivo e Matheus Reimer\x64\Debug\C.G.2.2.exe
+C:\Users\7425651\Desktop\CGM2F\x64\Debug\C.G.2.2.exe

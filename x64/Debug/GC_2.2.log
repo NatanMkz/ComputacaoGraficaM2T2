@@ -1,0 +1,30 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: O diretório intermediário (x64\Debug\) contém arquivos compartilhados de outro projeto (GC_2.2.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  main.cpp
+C:\Users\7425651\Desktop\CGM2F\main.cpp(37,22): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\7425651\Desktop\CGM2F\main.cpp(46,25): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\7425651\Desktop\CGM2F\main.cpp(47,24): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\7425651\Desktop\CGM2F\main.cpp(164,42): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\7425651\Desktop\CGM2F\main.cpp(63,14): warning C4101: 'z': variável local não referenciada
+C:\Users\7425651\Desktop\CGM2F\main.cpp(63,11): warning C4101: 'y': variável local não referenciada
+C:\Users\7425651\Desktop\CGM2F\main.cpp(63,8): warning C4101: 'x': variável local não referenciada
+C:\Users\7425651\Desktop\CGM2F\main.cpp(62,6): warning C4101: 'read': variável local não referenciada
+C:\Users\7425651\Desktop\CGM2F\main.cpp(210,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\7425651\Desktop\CGM2F\main.cpp(249,52): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\7425651\Desktop\CGM2F\main.cpp(376,49): warning C4267: 'argumento': conversão de 'size_t' para 'GLsizei', possível perda de dados
+C:\Users\7425651\Desktop\CGM2F\main.cpp(387,23): warning C4305: '-=': truncamento de 'double' para 'float'
+C:\Users\7425651\Desktop\CGM2F\main.cpp(389,23): warning C4305: '+=': truncamento de 'double' para 'float'
+C:\Users\7425651\Desktop\CGM2F\main.cpp(392,22): warning C4305: '-=': truncamento de 'double' para 'float'
+C:\Users\7425651\Desktop\CGM2F\main.cpp(394,22): warning C4305: '+=': truncamento de 'double' para 'float'
+C:\Users\7425651\Desktop\CGM2F\main.cpp(397,22): warning C4305: '+=': truncamento de 'double' para 'float'
+C:\Users\7425651\Desktop\CGM2F\main.cpp(399,22): warning C4305: '-=': truncamento de 'double' para 'float'
+C:\Users\7425651\Desktop\CGM2F\main.cpp(402,16): warning C4305: '-=': truncamento de 'double' para 'float'
+C:\Users\7425651\Desktop\CGM2F\main.cpp(404,16): warning C4305: '+=': truncamento de 'double' para 'float'
+C:\Users\7425651\Desktop\CGM2F\main.cpp(407,16): warning C4305: '-=': truncamento de 'double' para 'float'
+C:\Users\7425651\Desktop\CGM2F\main.cpp(409,16): warning C4305: '+=': truncamento de 'double' para 'float'
+C:\Users\7425651\Desktop\CGM2F\main.cpp(412,16): warning C4305: '+=': truncamento de 'double' para 'float'
+C:\Users\7425651\Desktop\CGM2F\main.cpp(414,16): warning C4305: '-=': truncamento de 'double' para 'float'
+C:\Users\7425651\Desktop\CGM2F\main.cpp(440,15): warning C4305: '+=': truncamento de 'double' para 'float'
+C:\Users\7425651\Desktop\CGM2F\main.cpp(443,15): warning C4305: '-=': truncamento de 'double' para 'float'
+C:\Users\7425651\Desktop\CGM2F\main.cpp(467,48): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\7425651\Desktop\CGM2F\main.cpp(471,51): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+  GC_2.2.vcxproj -> C:\Users\7425651\Desktop\CGM2F\x64\Debug\C.G.2.2.exe
